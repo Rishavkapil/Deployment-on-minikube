@@ -1,2 +1,2 @@
-<<<<<<< HEAD
+
 # Deployment-on-minikube
